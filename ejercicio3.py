@@ -9,9 +9,31 @@ def repeticion(frutas,controlador=True,sangria=0):
             if controlador:
                 for Tab in range (sangria):
                     print("\t", end="")
+                print(x)            
+
+
+def recursiva(frutas,sangria=0):
+    for x in frutas:
+        if isinstance(x,list):
+            recursiva(x,sangria+1)
+        else:
+            for Tab in range(sangria):
+                print("\t",end="")
             print(x)
 
-repeticion(frutas,True,0) 
+def imprimelista(frutas):
+    for x in frutas:
+        if isinstance(x,list):
+            imprimelista(x,)
+        else:
+            for Tab in range():
+                print("\t",end="")
+            print(x)
 
+recursiva(frutas,0)
+recursiva(frutas,5)
+repeticion(frutas,True,0)
+repeticion(frutas,false,0)
+imprimelista(frutas)
 
 
