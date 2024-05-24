@@ -1,0 +1,27 @@
+['Te lo dije una vez.', 'Sí, te lo dije.', 'Ahorita.', '¡No, no es inútil!']
+['Te lo dije una vez.', 'Sí, te lo dije.', 'Ahorita.', '¡No, no es inútil!']
+['Te lo dije una vez.', 'Sí, te lo dije.', 'Ahorita.', '¡No, no es inútil!']
+	Te lo dije una vez.
+	Sí, te lo dije.
+	Ahorita.
+	¡No, no es inútil!
+	Te lo dije una vez.
+	Sí, te lo dije.
+	Ahorita.
+	¡No, no es inútil!
+	Te lo dije una vez.
+	Sí, te lo dije.
+	Ahorita.
+	¡No, no es inútil!
+	Te lo dije una vez.
+	Sí, te lo dije.
+	Ahorita.
+	¡No, no es inútil!
+	Te lo dije una vez.
+	Sí, te lo dije.
+	Ahorita.
+	¡No, no es inútil!
+	Te lo dije una vez.
+	Sí, te lo dije.
+	Ahorita.
+	¡No, no es inútil!
